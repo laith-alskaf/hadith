@@ -9,3 +9,7 @@ The project has been successfully completed according to the requirements set by
 SQLFlite package in Flutter was used to retrieve data from a .db file, which serves as the database. The data is then displayed using the GetX package, which facilitates state management and navigation within the application.
 The provided design was implemented with precision, ensuring proper formatting and display of data in the specified languages.
 The project is characterized by its simplicity, focusing on essential functionalities for displaying conversations and related information. 
+
+
+Link For App:
+https://drive.google.com/drive/folders/1T0zRuUleNg-xJypIo1IsinaS95gkeaFE
